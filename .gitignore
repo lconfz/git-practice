@@ -1,0 +1,4 @@
+output.exe
+config.env
+build/
+temp.log
